@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Angelina&display=swap');
+
+
+.navbar{
+    width: auto;
+    height: auto;
+    display: flex;
+    align-items: center;
+    font-family: 'Angelina';
+
+}
+
+.ul_nav{
+    display: flex;
+    gap: 2rem;
+}
